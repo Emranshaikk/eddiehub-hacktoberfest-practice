@@ -993,6 +993,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Shadman Ali](https://github.com/shadmanhere)
   - [Shafaq Israil](https://github.com/shafaq-here)
   - [Shahan](https://github.com/shahan007)
+  - [Shaik Imran](https://github.com/Emranshaikk)
   - [Shaikh Mohammad Danish](https://github.com/SMD-1)
   - [Shailesh Kumar](https://github.com/shaileshkumar007)
   - [Shambashib Majumdar](https://github.com/shambashib20)
